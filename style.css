@@ -1,0 +1,782 @@
+html{
+zoom: 100%; 
+}
+
+body {
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    left: 0;
+    width: 100%;
+
+}
+header img{
+
+width: 1280px;
+height: 649px;
+left: 0px;
+top: 0px;
+opacity: 1;
+
+background: url(image.png);
+
+}
+
+.shop{
+    position: absolute;
+    width: 15%;
+    left: 88px;
+    top: 5px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 75px;
+    color: #FFFFFF;
+
+height: 128px;
+font-family: Didact Gothic;
+line-height: 150px;
+}
+.shop:hover{
+    height: 170px;
+}
+.nav-link1{
+position: absolute;
+width: 70px;
+height: 24px;
+left: 42px;
+top: 168px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+text-decoration: none;
+}
+.nav-link1:hover{
+    color: black;
+}
+.nav-link2{
+/* Чоловіки */
+
+position: absolute;
+width: 98px;
+height: 18px;
+left: 119px;
+top: 168px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
+text-decoration: none;
+
+
+
+}
+.nav-link2:hover{
+    color: black;
+}
+.nav-link3{
+    /* Діти */
+
+position: absolute;
+width: 51px;
+height: 18px;
+left: 224px;
+top: 168px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
+text-decoration: none;
+
+    
+}
+.nav-link3:hover{
+    color: black;
+}
+.nav-link4{
+    /* Beauty */
+
+position: absolute;
+width: 81px;
+height: 30px;
+left: 282px;
+top: 168px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
+text-decoration: none;
+
+    
+}
+.nav-link4:hover{
+    color: black;
+}
+.nav-link5{
+    /* Пошук */
+
+position: absolute;
+width: 63px;
+height: 23px;
+left: 729px;
+top: 27px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
+text-decoration: none;
+
+    
+}
+.nav-link5:hover{
+    color: black;
+}
+.nav-link6{
+    /* Почати сеанс */
+
+position: absolute;
+width: 128px;
+height: 23px;
+left: 835px;
+top: 26px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
+text-decoration: none;
+
+    
+}
+.nav-link6:hover{
+    color: black;
+}
+.nav-link7{
+    /* Допомога */
+
+position: absolute;
+width: 124px;
+height: 32px;
+left: 1006px;
+top: 26px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
+text-decoration: none;
+
+    
+}
+.nav-link7:hover{
+    color: black;
+}
+.nav-link8{
+    /* Кошик */
+
+position: absolute;
+width: 63px;
+height: 23px;
+left: 1161px;
+top: 27px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
+text-decoration: none;
+}
+.nav-link8:hover{
+    color: black;
+}
+.img1{
+/* image */
+position: absolute;
+width: 1280px;
+height: 818px;
+left: 0px;
+top: 649px;
+
+background: url(image.png);
+}
+.img1:hover{
+    transform: scale(1.2);
+
+}
+.img2{
+    /* image */
+position: absolute;
+width: 1280px;
+height: 635px;
+left: 0px;
+top: 1467px;
+
+background: url(image.png);
+
+}
+.img2:hover{
+    transform: scale(1.2);
+
+}
+.h21{
+/* Про нас */
+
+position: absolute;
+width: 359px;
+height: 113px;
+left: 461px;
+top: 2138px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 112px;
+/* identical to box height */
+
+color: #000000;
+
+
+}
+.p1{
+    /* Компанія Zara — це одна з найбільших світових компаній у сфері виробництва модного одягу. Вона входить до групи Inditex, однієї з найбільших світових дистриб'юторських груп Inditex. Більш докладну інформацію див. на веб-сайті групи Inditex: www.inditex.com */
+
+position: absolute;
+width: 1262px;
+height: 336px;
+left: 9px;
+top: 2287px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 56px;
+
+color: #000000;
+
+
+}
+.h22{
+/* Каталог */
+
+position: absolute;
+width: 508px;
+height: 128px;
+left: 386px;
+top: 2675px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 112px;
+text-align: center;
+
+color: #000000;
+
+
+}
+.photo1{
+/* image 1 */
+
+position: absolute;
+width: 293px;
+height: 457px;
+left: 83px;
+top: 2847px;
+
+background: url(image.png);
+opacity: 0.8;
+}
+.photo1:hover{
+ transform: scale(1.2);
+ opacity: 1;
+ 
+}
+.photo1UAN{
+/* ДОВГИЙ ТРЕНЧ ІЗ РЕМЕНЕМ 3 799,00 UAH */
+
+position: absolute;
+width: 330px;
+height: 106px;
+left: 60px;
+top: 3317px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+
+color: #000000;
+
+
+}
+.photo1p{
+    /* Двобортний тренч із лацканами, довгими рукавами та паском. Застібається на ґудзики спереду. Прорізні кишені спереду, хлястик із ґудзиком на рукавах і шліц ззаду. */
+
+position: absolute;
+width: 536px;
+height: 224px;
+left: 410px;
+top: 2847px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+
+color: #000000;
+text-decoration: none;
+
+
+}
+.text1p{
+    text-decoration: none;
+}
+
+
+
+
+.photo2{
+/* image 2 */
+
+position: absolute;
+width: 315px;
+height: 473px;
+left: 932px;
+top: 3241px;
+
+background: url(image.png);
+opacity: 0.8;
+}
+.photo2:hover{
+transform: scale(1.2);
+ opacity: 1;
+}
+.photo2UAN{
+/* ДРАПОВАНА СУКНЯ СЕРЕДНЬОЇ ДОВЖИНИ 1 449,00 UAH */
+
+position: absolute;
+width: 345px;
+height: 134px;
+left: 917px;
+top: 3727px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+
+color: #000000;
+
+
+}
+.photo2p{
+    /* Драпірована трикотажна сукня середньої довжини з високим коміром. Без рукавів. Контрастна підкладка. Прихована блискавка ззаду. */
+
+position: absolute;
+width: 484px;
+height: 210px;
+left: 430px;
+top: 3241px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+
+color: #000000;
+
+
+}
+
+.text2p{
+    text-decoration: none;
+    color:;
+}
+
+
+.photo3{
+/* image 3 */
+
+position: absolute;
+width: 400px;
+height: 455px;
+top: 3620px;
+
+background: url(image.png);
+opacity: 0.8;
+}
+.photo3:hover{
+transform: scale(1.2);
+opacity: 1;
+}
+.photo3UAN{
+/* АСИМЕТРИЧНЕ БОДІ SOFT ЗІ ЗБОРКАМИ 849,00 UAH */
+
+position: absolute;
+width: 297px;
+height: 112px;
+left: 28px;
+top: 4080px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+
+color: #000000;
+
+
+}
+.photo3p{
+    /* Боді зі зборками, асиметричним верхом, довгими рукавами та відкритими плечима. Застібається на кнопки внизу. */
+
+position: absolute;
+width: 528px;
+height: 208px;
+left: 356px;
+top: 3684px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+
+color: #000000;
+
+
+}
+.text3p{
+    text-decoration: none;
+    color:;
+}
+footer{
+    /* Rectangle 11 */
+position: absolute;
+width: 1280px;
+height: 200px;
+left: 0px;
+top: 4274px;
+
+background: #C4C4C4;
+
+}
+.a{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    justify-content:space-around;
+
+    border-bottom:2px solid black;
+}
+.nav{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+}
+.but{
+    position: absolute;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    top:55%;
+    left:0%;
+
+}
+.but-1{
+    position: absolute;
+    width: 100%;
+    display: flex;
+    justify-content: flex-between;
+    flex-wrap: wrap;
+    top:75%;
+    left:5%;
+    margin-right: 50%;
+}
+.but-2{
+    position: absolute;
+    width: 100%;
+    display: flex;
+    justify-content: flex-between;
+    flex-wrap: wrap;
+    top:75%;
+    left:27%;
+    margin-right: 50%;
+}
+.footertext1{
+/* Допомога */
+
+width: 174px;
+height: 25px;
+left: 59px;
+top: 4210px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 38px;
+text-align: center;
+
+color: #000000;
+
+
+}
+.footertext1:hover{
+    transform: scale(1.1);
+    color: #FFFFFF;
+}
+
+.footertext2{
+/* Політика конфідеційності */
+
+width: 330px;
+height: 25px;
+left: 285px;
+top: 4230px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 38px;
+text-align: center;
+
+color: #000000;
+
+}
+.footertext2:hover{
+    transform: scale(1.1);
+    color: #FFFFFF;
+}
+.footertext3{
+    /* Співпраця з нами */
+width: 237px;
+height: 22px;
+left: 675px;
+top: 4230px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 38px;
+text-align: center;
+
+color: #000000;
+
+
+}
+.footertext3:hover{
+    transform: scale(1.1);
+    color: #FFFFFF;
+}
+
+.footertext4{
+    /* Стежте за нами */
+width: 191px;
+height: 28px;
+left: 975px;
+top: 4230px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 38px;
+text-align: center;
+
+color: #000000;
+
+
+}
+.footertext4:hover{
+    transform: scale(1.1);
+    color: #FFFFFF;
+}
+
+.footer1{
+/* Де нас знайти */
+
+width: 190px;
+height: 26px;
+left: 47px;
+top: 4356px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+text-decoration: none;
+
+}
+.footer1:hover{
+    color: #FFFFFF;
+    transition: 0.5s color linear;
+}
+.footer2{
+/* Наша адреса */
+
+width: 156px;
+height: 26px;
+left: 65px;
+top: 4411px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+text-decoration: none;
+
+}
+.footer2:hover{
+    color: #FFFFFF;
+    transition: 0.5s color linear;
+}
+.footer3{
+/* Звіт за місяць */
+
+width: 299px;
+height: 30px;
+left: 305px;
+top: 4357px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+text-decoration: none;
+
+}
+.footer3:hover{
+    color: #FFFFFF;
+    transition: 0.5s color linear;
+}
+.footer4{
+/* Конфідеційність */
+
+width: 313px;
+height: 24px;
+left: 296px;
+top: 4411px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+text-decoration: none;
+
+}
+.footer4:hover{
+    color: #FFFFFF;
+    transition: 0.5s color linear;
+}
+.footer5{
+/* Звяжіться з нами */
+
+width: 176px;
+height: 34px;
+left: 705px;
+top: 4374px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+text-decoration: none;
+
+}
+.footer5:hover{
+    color: #FFFFFF;
+    transition: 0.5s color linear;
+}
+.footer6{
+/* Соцмережі */
+
+width: 207px;
+height: 24px;
+left: 975px;
+top: 4389px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+text-decoration: none;
+
+}
+.footer6:hover{
+    color: #FFFFFF;
+    transition: 0.5s color linear;
+}
